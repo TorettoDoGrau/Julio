@@ -6,7 +6,6 @@ Meu nome é julio
 - Estou me desenvolvendo na linguagem JavaScript
 - Utlizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
 
-
 ### Você quer entrar em contato comigo 
 
 o.julio16@gmail.pr.gov.br
